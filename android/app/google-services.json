@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "643109883799",
+    "project_id": "smart-notifier-53931",
+    "storage_bucket": "smart-notifier-53931.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643109883799:android:9952ebb39defd8dc267ed2",
+        "android_client_info": {
+          "package_name": "com.example.smart_notifier"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmiSFoiscbwWT045oP93v_cmJDdJhxVlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
